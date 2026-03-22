@@ -16,3 +16,5 @@ A decentralized student economy platform built to streamline peer-to-peer campus
 - **Vishal:** Idea & Concept
 - **Dhiraj:** investor and ppt maker
 
+- App Link - https://campusgigs-dragondevz.netlify.app/
+
